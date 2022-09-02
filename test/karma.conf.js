@@ -28,7 +28,7 @@ module.exports = function(config) {
       'bower_components/angular-local-storage/dist/angular-local-storage.js',
       'bower_components/angular-animate/angular-animate.js',
       'bower_components/blob-polyfill/Blob.js',
-      'bower_components/file-saver.js/FileSaver.js',
+      'bower_components/file-saver/dist/FileSaver.min.js',
       'bower_components/angular-file-saver/dist/angular-file-saver.bundle.js',
       'bower_components/angular-bootstrap/ui-bootstrap-tpls.js',
       'bower_components/angular-mocks/angular-mocks.js',

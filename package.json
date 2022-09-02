@@ -40,5 +40,9 @@
   },
   "scripts": {
     "test": "karma start test/karma.conf.js"
+  },
+  "dependencies": {
+    "file-saver": "1.2.0",
+    "grunt-cli": "^1.4.3"
   }
 }
